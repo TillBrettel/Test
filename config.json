@@ -1,0 +1,364 @@
+{
+  "businessName": "Mein Laden",
+  "tagline": "Essen. Service. Liebe.",
+  "description": "Dies ist eine Standardbeschreibung für die Sektion 'Über uns'. Sie können diesen Text im Editor bearbeiten.",
+  "address": "Musterstraße 1, 12345 Stadt",
+  "phone": "+49 123 456789",
+  "hours": "Mo-Fr: 10:00 - 20:00\nSa: 11:00 - 18:00",
+  "accent": "#3b82f6",
+  "layoutTemplate": "samsung",
+  "logoDataUrl": "",
+  "backgroundColor": "#f8fafc",
+  "backgroundImage": "",
+  "backgroundVideoUrl": "",
+  "backgroundSize": "cover",
+  "fontSizeName": 38,
+  "fontSizeDesc": 18,
+  "logoWidth": 120,
+  "logoHeight": 120,
+  "slideshowWidth": 250,
+  "slideshowHeight": 180,
+  "fontFamily": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif",
+  "fontWeight": "normal",
+  "fontColor": "#334155",
+  "bgSections": {
+    "about": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "contact": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "products": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "team": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "faq": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "blog": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "news": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "jobs": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "projects": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "prices": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "events": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "gallery": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "partners": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "newsletter": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "contactForm": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "bookingSystem": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "downloads": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "freestyle": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "calendar": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "menu": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "history": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "imprint": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "privacy": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "reviews": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "todoList": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "shoppingList": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    }
+  },
+  "transparentSections": false,
+  "transparentNavbar": false,
+  "navbarFontColor": "#475569",
+  "navbarFontFamily": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif",
+  "navbarBorderColor": "#e2e8f0",
+  "navbarBorderWidth": 1,
+  "navbarBorderStyle": "solid",
+  "navbarCustomTabNames": {},
+  "showSlideshow": false,
+  "showServices": false,
+  "showTeam": false,
+  "showFAQ": false,
+  "showBlog": false,
+  "showNews": false,
+  "showJobs": false,
+  "showProjects": false,
+  "showPrices": false,
+  "showEvents": false,
+  "showGallery": false,
+  "showPartners": false,
+  "showNewsletter": false,
+  "showContactForm": true,
+  "showBookingSystem": true,
+  "showDownloads": false,
+  "showMap": false,
+  "showLanguageSelector": true,
+  "showTodoList": true,
+  "showShoppingList": true,
+  "slideshowImages": [],
+  "services": [
+    {
+      "title": "Neues Produkt",
+      "description": "Beschreibung",
+      "image": ""
+    }
+  ],
+  "team": [
+    {
+      "name": "Neues Mitglied",
+      "position": "Aufgabe",
+      "photo": ""
+    }
+  ],
+  "faq": [
+    {
+      "question": "Öffnungszeiten?",
+      "answer": "Mo-Fr 10-20"
+    }
+  ],
+  "blogPosts": [
+    {
+      "title": "Neuer Blogpost",
+      "content": "Inhalt des Blogposts...",
+      "image": ""
+    }
+  ],
+  "newsItems": [
+    {
+      "title": "Wichtige Neuigkeit",
+      "content": "Hier ist die neueste Nachricht.",
+      "date": "2023-10-27"
+    }
+  ],
+  "jobListings": [
+    {
+      "title": "Webentwickler gesucht",
+      "location": "Ort",
+      "description": "Wir suchen einen erfahrenen Webentwickler."
+    }
+  ],
+  "projects": [
+    {
+      "title": "Neues Projekt",
+      "description": "Beschreibung des Projekts.",
+      "image": ""
+    }
+  ],
+  "pricingPlans": [
+    {
+      "title": "Neuer Plan",
+      "price": "€XX/Monat",
+      "features": [
+        "Feature 1",
+        "Feature 2"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Neues Event",
+      "date": "2024-08-15",
+      "description": "Beschreibung des Events."
+    }
+  ],
+  "galleryImages": [],
+  "partners": [
+    {
+      "name": "Neuer Partner",
+      "logo": ""
+    }
+  ],
+  "newsletterText": "Melden Sie sich für unseren Newsletter an, um die neuesten Updates zu erhalten!",
+  "contactFormRecipientEmail": "bretteltill@gmail.com",
+  "bookingSystemRecipientEmail": "bretteltill@gmail.com",
+  "mapEmbedUrl": "",
+  "downloads": [],
+  "whatsappNumber": "",
+  "instagramUrl": "",
+  "tiktokUrl": "",
+  "facebookUrl": "",
+  "templatesEnabled": false,
+  "selectedTemplate": "",
+  "freestyleSections": [],
+  "showCalendar": false,
+  "calendarEmbedUrl": "",
+  "showMenu": false,
+  "menuImageUrl": "",
+  "menuDocumentUrl": "",
+  "menuDocumentName": "Speisekarte herunterladen",
+  "showHistory": true,
+  "historyContent": "Erzählen Sie hier die Geschichte Ihres Unternehmens, seine Gründung, Meilensteine und Visionen.",
+  "showImprint": true,
+  "imprintContent": "Fügen Sie hier Ihre Impressumsdaten gemäß den gesetzlichen Bestimmungen ein (Name, Adresse, Kontakt, Handelsregister, etc.).",
+  "showPrivacy": false,
+  "privacyContent": "Fügen Sie hier Ihre Datenschutzerklärung ein, die erläutert, wie Sie mit Nutzerdaten umgehen.",
+  "showReviews": false,
+  "reviewsContent": "Fügen Sie hier positive Kundenrezensionen oder Testimonials ein, um Vertrauen aufzubauen.",
+  "domain": "",
+  "initialLanguage": "de",
+  "nightMode": false
+}
